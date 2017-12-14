@@ -7,12 +7,7 @@
 
     <body>
         <?php
-            //tp1 afficher une page web la table de multiplication de 7
-            for($i=0;$i<11;$i++){
-                echo '7 * '.$i.' = '.$i*7;  
-                echo '<br>';
-            }
-            echo '<br>';
+            
 
 
             //tp2 afficher les table de 1 a 10
